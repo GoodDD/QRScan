@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906860815441",
+    "project_id": "qrscan-cdac2",
+    "storage_bucket": "qrscan-cdac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906860815441:android:09ed5a8917d3188ad74470",
+        "android_client_info": {
+          "package_name": "com.example.qrscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906860815441-g30hefhakulbjaadgf3grikli1t6ogfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGnjSL3GixIiDGPoHusRLCAnc9dWeUvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906860815441-g30hefhakulbjaadgf3grikli1t6ogfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
